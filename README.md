@@ -5,3 +5,4 @@ Testing signing with GPG key. Second attempt
 Testing signing with GPG key. Third attempt
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRKJLEJR
+RABOTAT'
