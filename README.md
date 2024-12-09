@@ -9,3 +9,5 @@ RABOTAT'
 It must work NOW!
 
 First commit from Ubuntu.
+
+Verified commit from Ubuntu with my sign.
